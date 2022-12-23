@@ -4,7 +4,7 @@ import argparse
 import json
 import sys
 
-from abalone.pipeline import get_pipeline
+from thunderbird.pipeline import get_pipeline
 
 
 def main():  # pragma: no cover
